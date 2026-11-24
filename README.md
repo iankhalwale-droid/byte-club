@@ -7,7 +7,7 @@ A website for Byte Club, a made-up coding club that meets in the computer room. 
 A learner aged 12 to 15 thinking of joining, and what they need to know before they join.
 
 ## How to open it
-Live site: [your GitHub Pages address]
+Live site: https://iankhalwale-droid.github.io/byte-club/
 
 ## What it does
 - Three connected pages: Home, About the club, Sessions
@@ -21,4 +21,4 @@ Every image, fact and dataset is listed on the About page and in my source recor
 What I asked the AI (Claude or Cursor), what I checked and what I changed is in my AI accountability log.
 
 ## What I would do next
-One or two ideas.
+A list of members
