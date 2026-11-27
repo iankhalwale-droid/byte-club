@@ -3,7 +3,7 @@
 
 :root {
   --main-colour:#4169E1;    /* header background */
-  --accent-colour:#4169E1;  /* buttons and focus outline; passes 4.5:1 on white */
+  --accent-colour:#000000;  /* buttons and focus outline; passes 4.5:1 on white */
 }
 
 body {
@@ -40,7 +40,7 @@ nav a {
 
 /* Mouse users see this when they hover */
 nav a:hover {
-  background: #4169E1;
+  background: #000000;
 }
 
 /* Keyboard users see where they are. Never remove this. */
